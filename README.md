@@ -1,3 +1,5 @@
+Archived. No longer maintained, outdated versions, and I no longer use this.
+
 # SvelteKit-Netlify-Bootstrap5
 
 SvelteKit template, netlify deployments configured, and add ready-to-use bootstrap 5 classes (unwraped)
